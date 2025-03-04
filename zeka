@@ -1,0 +1,18 @@
+requirements.txt: Contains all necessary Python packages for AI development
+README.md: Detailed documentation about the project structure and usage
+notebooks/01_basic_ai_examples.ipynb: A Jupyter notebook with basic AI examples
+src/utils/preprocessing.py: A utility module for data preprocessing
+The project includes:
+Machine learning and deep learning capabilities
+Data preprocessing tools
+Example notebooks
+A well-organized project structure
+To get started with the project:
+First, install the required packages:
+Start Jupyter Notebook:
+Navigate to the notebooks folder and open 01_basic_ai_examples.ipynb to see some basic AI examples.
+The project is set up to be extensible, so you can:
+Add your own models in the src/models directory
+Create new notebooks for different AI applications
+Add your datasets in the data directory
+Use the preprocessing utilities for your data
